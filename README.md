@@ -223,3 +223,5 @@ Introduce customized credit card products or benefits tailored for families, as 
 - **Monitor Revenue Trends:**
 
 Since revenue fluctuates by week, analyzing the patterns further can help identify specific events or periods that drive higher credit card usage.
+
+Credit Card Transaction Report.png
