@@ -50,6 +50,8 @@ The final output of this project was an interactive dashboard that allows stakeh
 
 The project successfully combined data analysis, visualization, and actionable insights to help stakeholders better understand customer behavior, financial trends, and optimize credit card services.
 
+<a href = "Credit Card Report.pbix">Credit_Card_Dashboard_Power_BI_File</a>
+
 # DASHBOARD SUMMARY
 
 ## Credit Card Transaction Report
