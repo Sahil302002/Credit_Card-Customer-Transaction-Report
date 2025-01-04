@@ -125,8 +125,6 @@ Additionally, a **dropdown slicer** is included, enabling stakeholders and the C
 
 ## Credit Card Customer Report
 
-## Dashboard Explanation
-
 This dashboard provides an overview of credit card customer performance metrics, including revenue, income, interest earned, customer satisfaction, and detailed demographic insights across multiple categories. Key features include:
 
 ### KPI Metrics:
@@ -150,7 +148,7 @@ Average Customer Satisfaction: 3.19 (likely on a scale of 5)
 
 A fluctuating trend is visible, indicating seasonal variations or events influencing revenue.
 
-## **By Age Group**:
+### **By Age Group**:
 
  The highest revenue comes from the 41–50 and 51–60 age groups.
 
@@ -174,7 +172,7 @@ High-income customers contribute the most revenue ($22M).
 
 Texas (TX), New York (NY), California (CA), Florida (FL), and New Jersey (NJ) lead in revenue generation.
 
-## Customer Segmentation:
+### Customer Segmentation:
 
 **Job Category**: Business professionals and white-collar workers generate the highest total revenue.
 
