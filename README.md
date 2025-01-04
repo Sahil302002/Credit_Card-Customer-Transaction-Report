@@ -1,4 +1,4 @@
-### **About This Project**:
+## **About This Project**:
 
 This project focuses on analyzing **Credit Card Transactions** and **Customer Details** data to derive valuable insights related to customer behavior, financial transactions, and credit usage patterns. The project leverages **Power BI** and **SQL Server** to process and visualize large datasets, enabling businesses to make data-driven decisions related to customer acquisition, retention, and credit management.
 
@@ -8,7 +8,7 @@ By utilizing Power BI’s advanced visualizations and DAX queries, the project h
 
 ---
 
-### **Project Overview**:
+## **Project Overview**:
 
 In this finance-related data analysis project, the main goal was to analyze and visualize **Credit Card Transactions** and **Customer Data** to derive insights on customer behavior, card usage, and financial trends. The project utilized **Power BI** for visualization, connected to **SQL Server** to manage and process large datasets.
 
@@ -21,7 +21,7 @@ The project involved several important steps:
 
 The final output of this project was an interactive dashboard that allows stakeholders to analyze various aspects of credit card usage and customer demographics.
 
-### **Tasks Completed in This Project**:
+## **Tasks Completed in This Project**:
 
 1. **Data Import and Integration**:
     - Imported **Credit Card** and **Customer Details** data into **SQL Server**.
@@ -48,7 +48,7 @@ The project successfully combined data analysis, visualization, and actionable i
 
 # DASHBOARD SUMMARY
 
-## Credit Card Transaction Dashboard
+## Credit Card Transaction Report
 
 This dashboard provides a comprehensive analysis of credit card transactions. Below are the insights and explanations based on the visual elements in the report:
 
