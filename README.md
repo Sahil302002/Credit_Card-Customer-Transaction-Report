@@ -230,4 +230,7 @@ Introduce customized credit card products or benefits tailored for families, as 
 
 Since revenue fluctuates by week, analyzing the patterns further can help identify specific events or periods that drive higher credit card usage.
 
+![Credit Card Transaction Report](https://github.com/user-attachments/assets/e3c56968-2a72-4c25-9e66-57917db551a6)
+
+
 ![Credit Card Customer Report](https://github.com/user-attachments/assets/64262f19-b627-4ede-a1ed-834ca0b07b6d)
