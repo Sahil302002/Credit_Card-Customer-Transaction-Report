@@ -21,8 +21,6 @@ The project involved several important steps:
 
 The final output of this project was an interactive dashboard that allows stakeholders to analyze various aspects of credit card usage and customer demographics.
 
----
-
 ### **Tasks Completed in This Project**:
 
 1. **Data Import and Integration**:
@@ -48,13 +46,11 @@ The final output of this project was an interactive dashboard that allows stakeh
 
 The project successfully combined data analysis, visualization, and actionable insights to help stakeholders better understand customer behavior, financial trends, and optimize credit card services.
 
-## Dashboard Summary
+# DASHBOARD SUMMARY
 
 ## Credit Card Transaction Dashboard
 
 This dashboard provides a comprehensive analysis of credit card transactions. Below are the insights and explanations based on the visual elements in the report:
-
----
 
 ### **Key Metrics**
 
@@ -73,16 +69,12 @@ Additionally, a **dropdown slicer** is included, enabling stakeholders and the C
 
  By utilizing these tools, users can gain a clear and actionable understanding of revenue breakdowns across various categories and demographics, facilitating more informed decision-
 
----
-
 ### **Card Category Insights**
 
 - **Blue Cards:** Generate the highest revenue at $46M, followed by Silver at $6M, Gold at $2M, and Platinum at $1M.
 - **Transaction Patterns:**
     - Blue cards dominate total transaction amount ($3.69M).
     - Silver cards generate significant interest ($8.12M), likely due to higher outstanding balances.
-
----
 
 ### **Quarterly Trends (QTR Wise Revenue and Transaction Count)**
 
@@ -93,15 +85,11 @@ Additionally, a **dropdown slicer** is included, enabling stakeholders and the C
     - Transactions peaked at 164.2K in Q3.
     - Q4 saw a decline in both transaction count and revenue, suggesting lower activity during this period.
 
----
-
 ### **Revenue by Chip Type**
 
 - **Swipe Transactions:** Account for the highest revenue ($34.913K), emphasizing customer preference for physical card swipes.
 - **Chip Transactions:** Contribute $16.967K, indicating a moderate adoption of secure chip technology.
 - **Online Transactions:** Minimal revenue of $3.436K, suggesting an opportunity to improve online transaction adoption.
-
----
 
 ### **Revenue by Expenditure Type**
 
@@ -109,23 +97,17 @@ Additionally, a **dropdown slicer** is included, enabling stakeholders and the C
 - **Entertainment and Fuel:** Both generate $10M and $9M respectively.
 - **Travel:** Accounts for only $6M, likely impacted by limited travel-related spending or seasonal factors.
 
----
-
 ### **Revenue by Education Level**
 
 - **Graduates:** Contribute the highest revenue ($22M).
 - **High School and Post-Graduates:** Generate $11M and $3M respectively, showing a skew towards higher education levels.
 - **Uneducated:** Contribute $8M, indicating a broad customer base.
 
----
-
 ### **Revenue by Job Type**
 
 - **Business Professionals:** Generate $17.388K, the highest among all job types.
 - **White-collar and Self-employed:** Contribute $10.115K and $8.262K respectively.
 - **Blue-collar Workers and Retirees:** Contribute the least ($6.904K and $4.535K).
-
----
 
 ### **Key Observations**
 
@@ -134,8 +116,6 @@ Additionally, a **dropdown slicer** is included, enabling stakeholders and the C
 3. **Underperformance in Online Transactions:** There's a clear gap in online transaction revenue, highlighting an area for digital growth.
 4. **Highly Educated Customers:** Graduates contribute significantly to revenue, making them a critical target segment.
 
----
-
 ### **Recommendations**
 
 1. **Promote Online Transactions:** Offer incentives for online usage to capture more digital spending.
@@ -143,7 +123,7 @@ Additionally, a **dropdown slicer** is included, enabling stakeholders and the C
 3. **Seasonal Campaigns:** Leverage Q3 trends for festive promotions to maximize revenue.
 4. **Blue Card Engagement:** Enhance rewards and loyalty programs for Blue cardholders to retain their dominance.
 
-# Credit Card Customer Report
+## Credit Card Customer Report
 
 ## Dashboard Explanation
 
@@ -199,8 +179,6 @@ Texas (TX), New York (NY), California (CA), Florida (FL), and New Jersey (NJ) le
 **Job Category**: Business professionals and white-collar workers generate the highest total revenue.
 
 **Card Type:** Revenue is segmented by card types (Silver, Blue, Gold, and Platinum).
-
----
 
 ## Analysis & Insights
 
