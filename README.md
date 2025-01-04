@@ -1,4 +1,4 @@
-## **About This Project**:
+## **Project 2: Financial Domain Power BI Project**:
 
 This project focuses on analyzing **Credit Card Transactions** and **Customer Details** data to derive valuable insights related to customer behavior, financial transactions, and credit usage patterns. The project leverages **Power BI** and **SQL Server** to process and visualize large datasets, enabling businesses to make data-driven decisions related to customer acquisition, retention, and credit management.
 
