@@ -23,6 +23,7 @@ The final output of this project was an interactive dashboard that allows stakeh
 
 - Dataset Used in this Project
 <a href = "credit_card.csv">Credit_Card_Dataset</a>
+<a href = "customer.csv">Customer_Dataset</a>
 
 ## **Tasks Completed in This Project**:
 
